@@ -1,0 +1,7 @@
+# Git itself
+/.git
+# Python cache/compiled files
+*__pycache__
+*.pyc
+# Database
+*.sqlite3
