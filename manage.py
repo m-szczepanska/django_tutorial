@@ -1,3 +1,7 @@
+# A command-line utility that lets you interact with this Django project 
+# in various ways.
+
+
 #!/usr/bin/env python
 import os
 import sys
