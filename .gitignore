@@ -5,3 +5,5 @@
 *.pyc
 # Database
 *.sqlite3
+# MacOS
+.DS_Store

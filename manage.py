@@ -1,4 +1,4 @@
-# A command-line utility that lets you interact with this Django project 
+# A command-line utility that lets you interact with this Django project
 # in various ways.
 
 
